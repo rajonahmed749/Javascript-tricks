@@ -1,6 +1,6 @@
 # Javascript-tricks for Becoming Pro Developer
 
-##### In this repository i have shown a lot of Javascript tricks and tips for beginner to advance learner.  I divided all of these into chapters. You can find required chapter for your need. 
+### In this repository i have shown a lot of Javascript tricks and tips for beginner to advance learner.  I divided all of these into chapters. You can find required chapter for your need. 
 
 ### `Array Tricks`
 
