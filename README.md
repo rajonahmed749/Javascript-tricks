@@ -4,13 +4,13 @@
 
 ### `Array Tricks`
 
- i. How to remove falsy values from an array
- ii. Convert any value to boolean
- iii. How to resize an Array
- iv. How to flatten a multidimensional Array
- v. How to use short conditionals
- vi. How to replace all occurrences of a string
- vii. How to log variable with values properly? 
- viii. How to calculate performance of a ask/operation? 
- ix. Merge to array into an array
- x. Remove duplicate element from an array
+ i. How to remove falsy values from an array <br/>
+ ii. Convert any value to boolean <br/>
+ iii. How to resize an Array <br/>
+ iv. How to flatten a multidimensional Array <br/>
+ v. How to use short conditionals <br/>
+ vi. How to replace all occurrences of a string <br/>
+ vii. How to log variable with values properly?  <br/>
+ viii. How to calculate performance of a ask/operation? <br/>
+ ix. Merge to array into an array <br/>
+ x. Remove duplicate element from an array <br/>
