@@ -14,3 +14,9 @@
  viii. How to calculate performance of a ask/operation? <br/>
  ix. Merge to array into an array <br/>
  x. Remove duplicate element from an array <br/>
+
+### `All About String`
+
+ i.  Replace any string to another string <br/>
+ ii. Concat method about String <br/>
+ iii. CharAt method of String <br/>
