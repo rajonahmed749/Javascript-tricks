@@ -20,3 +20,6 @@
  i.  Replace any string to another string <br/>
  ii. Concat method about String <br/>
  iii. CharAt method of String <br/>
+ iv. Repeat method of String <br/>
+ v. Case changing method of String <br/>
+ vi. Slice method of String <br/>
