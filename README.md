@@ -23,3 +23,9 @@
  iv. Repeat method of String <br/>
  v. Case changing method of String <br/>
  vi. Slice method of String <br/>
+
+### `Object tricks`
+
+ i.  Object build in method keys % values <br/>
+ ii. Entries method returns array<br/>
+ iii. Frozen object can no longer be changed <br/>
