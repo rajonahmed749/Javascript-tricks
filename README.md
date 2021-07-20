@@ -26,6 +26,6 @@
 
 ### `Object tricks`
 
- i.  Object build in method keys % values <br/>
+ i.  Object build in method keys & values <br/>
  ii. Entries method returns array<br/>
  iii. Frozen object can no longer be changed <br/>
