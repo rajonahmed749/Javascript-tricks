@@ -14,6 +14,7 @@
  - How to calculate performance of a ask/operation? <br/>
  - Merge to array into an array <br/>
  - Remove duplicate element from an array <br/>
+ - array.sort() method added <br/>
 
 ### `All About String`
 
