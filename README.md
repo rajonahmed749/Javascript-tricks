@@ -4,28 +4,32 @@
 
 ### `Array Tricks`
 
- i. How to remove falsy values from an array <br/>
- ii. Convert any value to boolean <br/>
- iii. How to resize an Array <br/>
- iv. How to flatten a multidimensional Array <br/>
- v. How to use short conditionals <br/>
- vi. How to replace all occurrences of a string <br/>
- vii. How to log variable with values properly?  <br/>
- viii. How to calculate performance of a ask/operation? <br/>
- ix. Merge to array into an array <br/>
- x. Remove duplicate element from an array <br/>
+ - How to remove falsy values from an array <br/>
+ - Convert any value to boolean <br/>
+ - How to resize an Array <br/>
+ - How to flatten a multidimensional Array <br/>
+ - How to use short conditionals <br/>
+ - How to replace all occurrences of a string <br/>
+ - How to log variable with values properly?  <br/>
+ - How to calculate performance of a ask/operation? <br/>
+ - Merge to array into an array <br/>
+ - Remove duplicate element from an array <br/>
 
 ### `All About String`
 
- i.  Replace any string to another string <br/>
- ii. Concat method about String <br/>
- iii. CharAt method of String <br/>
- iv. Repeat method of String <br/>
- v. Case changing method of String <br/>
- vi. Slice method of String <br/>
+ -  Replace any string to another string <br/>
+ - Concat method about String <br/>
+ - CharAt method of String <br/>
+ - Repeat method of String <br/>
+ - Case changing method of String <br/>
+ - Slice method of String <br/>
 
 ### `Object tricks`
 
- i.  Object build in method keys & values <br/>
- ii. Entries method returns array<br/>
- iii. Frozen object can no longer be changed <br/>
+ -  Object build in method keys & values <br/>
+ - Entries method returns array<br/>
+ - Frozen object can no longer be changed <br/>
+
+### The one chapter will be added in next weekend (closure and scope) 
+    let me know what topic do you want by creating an issue
+    
