@@ -5,5 +5,5 @@ const items = {
     egg: "1 dozen"
 }
 Object.freeze(items)
-items.oil= "5kg";
+items.oil= "15kg";
 console.log(items.oil); // Output:- 10kg
