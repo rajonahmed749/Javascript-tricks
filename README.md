@@ -18,7 +18,7 @@
 
 ### `All About String`
 
- -  Replace any string to another string <br/>
+ - Replace any string to another string <br/>
  - Concat method about String <br/>
  - CharAt method of String <br/>
  - Repeat method of String <br/>
@@ -27,14 +27,14 @@
 
 ### `Object tricks`
 
- -  Object build in method keys & values <br/>
+ - Object build in method keys & values <br/>
  - Entries method returns array<br/>
  - Frozen object can no longer be changed <br/>
 
 ### `Type Conversion`
 
- -  given many more example for understanding type conversion <br/>
- - divided into 4/ more file for better understanding<br/>
+ - Given many more example for understanding type conversion <br/>
+ - Divided into 4/ more file for better understanding<br/>
 
 ### The one chapter will be added in next weekend (closure and scope) 
     let me know what topic do you want by creating an issue
