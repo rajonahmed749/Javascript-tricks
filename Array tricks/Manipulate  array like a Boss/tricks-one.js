@@ -18,4 +18,3 @@ const Fruits = [
 // passing a callback function and set filter condition 
 const FinalFruits = Fruits.filter(item => item.price != 0);
 console.log(FinalFruits);
-
