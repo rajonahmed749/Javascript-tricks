@@ -37,5 +37,6 @@
  - Divided into 4/ more file for better understanding<br/>
 
 ### The one chapter will be added in next weekend (closure and scope) 
-    let me know what topic do you want by creating an issue
-    
+
+    I'm back, let me know what topics do you want from me?
+        
